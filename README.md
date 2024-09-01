@@ -1,6 +1,5 @@
 Arduino based Dynamic Propeller Balancer
 
-![image](https://github.com/user-attachments/assets/1f9cf407-a442-4f9d-9c8b-3a701874bc64)
 
 This is a full blown features implementation of a propeller balancer on an Arduino Uno. The software was originally developed by Peter Ashwood-Smith  -  https://github.com/peterashwoodsmith
 
@@ -19,9 +18,6 @@ Features
 - This is a DIY project, where you build and maintain/calibrate your unit. You will have access to the full schematics, component BOM and software.
 
 
-
-![image](https://github.com/user-attachments/assets/15c27c24-ae22-4929-9cd0-cd7ce358f57c)
-
 Acceleration Sensing Unit (ASU)
   
 - An Acceleration Sensing Unit (ASU) is also provided as a PCB for ease of assembly/housing into a small aluminum flahslight case.
@@ -29,13 +25,12 @@ Acceleration Sensing Unit (ASU)
 - Full testing is not complete, however preliminary results lead us to believe that 4xAA batteries will last up to 19 hours in continuous operation (including using the boost converter).
 
 
-
-
-![Vcheck Mosaic](https://github.com/user-attachments/assets/816c710b-a543-4b29-b071-321f13cf6c08)
-
 LED trigger sensor
 
 The LED sensor determines the reference 0 degree angle of the motor/propeller. The unit is pointed to the back of the propeller using a retroflective tape as a target. This sensor produces a digital active low signal when the 0 degree mark is encountered. Presently this off-the-shelf sensor is fairly expensive at a cost of $200US (with 10m cable). An alternative and lower cost sensor design is being tested. More to come.
+
+PDF Presentation to EAA Chapter 245 on Saturday August 24, 2024
+https://github.com/Lycosaurus/Lycosaurus.github.io/blob/main/20240824_Vcheck%20EAA245%20Presentation.pdf
 
 
 
