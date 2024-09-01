@@ -1,16 +1,12 @@
-Vcheck - Vibration Checker and Dyamic Propeller Balancer:
-
-Coming Soon
-
-
 Arduino based Dynamic Propeller Balancer
 
-![20240819_144329679_iOS](https://github.com/user-attachments/assets/2c6d5ccd-019a-46fb-a037-84069db2270d)
+![image](https://github.com/user-attachments/assets/1f9cf407-a442-4f9d-9c8b-3a701874bc64)
 
-This is a full blown features implementation of a propeller balancer on an Arduino Uno. The software was originally developed by Peter Ashwood-Smith - https://github.com/peterashwoodsmith
+This is a full blown features implementation of a propeller balancer on an Arduino Uno. The software was originally developed by Peter Ashwood-Smith  -  https://github.com/peterashwoodsmith
 
-  September 1, 2024    Please Note: This project is NOT COMPLETE YET. DO NOT USE. Please stay tuned. A PCB respin is planned to cleanup footprint and other errors. All documents will be published, including schematic and software.
+  September 1, 2024  Please Note: This project is NOT COMPLETE YET. DO NOT USE. 
 
+  It is a work in progress, and documents are being uploaded and corrected. A PCB respin is planned to cleanup footprint and other errors. Please stay tuned.
 
 Features
 
@@ -24,7 +20,7 @@ Features
 
 
 
-![20230409_180944561_iOS](https://github.com/user-attachments/assets/24d1ace0-8fb7-4565-a19e-d04c3eeba43f)
+![image](https://github.com/user-attachments/assets/15c27c24-ae22-4929-9cd0-cd7ce358f57c)
 
 Acceleration Sensing Unit (ASU)
   
