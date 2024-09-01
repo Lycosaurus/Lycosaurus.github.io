@@ -1,3 +1,3 @@
-Vcheck Dyamic Propeller Balancing device:
+Vcheck - Vibration Checker and Dyamic Propeller Balancer:
 
 Coming Soon
